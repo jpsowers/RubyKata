@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/RubyKata.iml" afterPath="$PROJECT_DIR$/.idea/RubyKata.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Game_Of_Life.rb" afterPath="$PROJECT_DIR$/app/Game_Of_Life.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/game_of_life_tests.rb" afterPath="$PROJECT_DIR$/test/game_of_life_tests.rb" />
     </list>
     <ignored path="RubyKata.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/game_of_life_tests.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369968084880" ignored="false" />
+    <file path="/game_of_life_tests.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369968890567" ignored="false" />
     <file path="/game_of_life.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369967363360" ignored="false" />
-    <file path="/Game_Of_Life.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369968075741" ignored="false" />
+    <file path="/Game_Of_Life.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369968938516" ignored="false" />
     <file path="/Dummy.txt" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369968144172" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369968958959" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +34,7 @@
       <file leaf-file-name="game_of_life_tests.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/game_of_life_tests.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="35" selection-start="420" selection-end="420" vertical-scroll-proportion="0.69638556">
+            <state line="18" column="2" selection-start="267" selection-end="267" vertical-scroll-proportion="0.7373494">
               <folding />
             </state>
           </provider>
@@ -47,7 +43,7 @@
       <file leaf-file-name="Game_Of_Life.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Game_Of_Life.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+            <state line="7" column="27" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -385,14 +381,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/Game_Of_Life.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+        <state line="7" column="27" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/game_of_life_tests.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="35" selection-start="420" selection-end="420" vertical-scroll-proportion="0.69638556">
+        <state line="18" column="2" selection-start="267" selection-end="267" vertical-scroll-proportion="0.7373494">
           <folding />
         </state>
       </provider>
