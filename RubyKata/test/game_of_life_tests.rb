@@ -15,10 +15,14 @@ class GameTests < Test::Unit::TestCase
       assert_equal 'booger', result.booger
   end
 
-  def point_contains_a_point
+  def point_can_return_x_and_y_coordinates
       @point = Point.new(1,2)
       assert_equal @point.x, 1
       assert_equal @point.y, 2
+  end
+
+  def test_game_grid_has_nine_points
+      assert_equal @game.grid.length, 9
   end
 
   def teardown

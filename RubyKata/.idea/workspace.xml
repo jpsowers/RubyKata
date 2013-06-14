@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" name="Default" comment="First adding project for Conways Game Of life in Ruby - created inital unit test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/point.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Game_Of_Life.rb" afterPath="$PROJECT_DIR$/app/Game_Of_Life.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/game_of_life_tests.rb" afterPath="$PROJECT_DIR$/test/game_of_life_tests.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RubyKata.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/game_of_life_tests.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371170466041" ignored="false" />
+    <file path="/game_of_life_tests.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371170783001" ignored="false" />
     <file path="/game_of_life.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369967363360" ignored="false" />
-    <file path="/Game_Of_Life.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371169725372" ignored="false" />
+    <file path="/Game_Of_Life.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371170749312" ignored="false" />
     <file path="/Dummy.txt" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371168802611" ignored="false" />
     <file path="/point.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371170302165" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +34,7 @@
       <file leaf-file-name="game_of_life_tests.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/game_of_life_tests.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="64" selection-start="331" selection-end="331" vertical-scroll-proportion="0.6197917">
+            <state line="20" column="60" selection-start="473" selection-end="473" vertical-scroll-proportion="0.6015625">
               <folding />
             </state>
           </provider>
@@ -45,16 +43,7 @@
       <file leaf-file-name="Game_Of_Life.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Game_Of_Life.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="35" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="point.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/point.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="3" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -81,8 +70,8 @@
         <option value="$PROJECT_DIR$/game_of_life.rb" />
         <option value="$PROJECT_DIR$/Game_Of_Life.rb" />
         <option value="$PROJECT_DIR$/game_of_life_tests.rb" />
-        <option value="$PROJECT_DIR$/app/Game_Of_Life.rb" />
         <option value="$PROJECT_DIR$/app/point.rb" />
+        <option value="$PROJECT_DIR$/app/Game_Of_Life.rb" />
         <option value="$PROJECT_DIR$/test/game_of_life_tests.rb" />
       </list>
     </option>
@@ -464,23 +453,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Game_Of_Life.rb">
+    <entry file="file://$PROJECT_DIR$/app/point.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
+        <state line="15" column="3" selection-start="105" selection-end="105" vertical-scroll-proportion="0.6640625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/point.rb">
+    <entry file="file://$PROJECT_DIR$/app/Game_Of_Life.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="3" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+        <state line="11" column="0" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/game_of_life_tests.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="64" selection-start="331" selection-end="331" vertical-scroll-proportion="0.6197917">
+        <state line="20" column="60" selection-start="473" selection-end="473" vertical-scroll-proportion="0.6015625">
           <folding />
         </state>
       </provider>
