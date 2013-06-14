@@ -25,6 +25,15 @@ class GameTests < Test::Unit::TestCase
       assert_equal @game.grid.length, 9
   end
 
+  def test_grid_returns_properly_initialized_point_value_for_point_zero_zero
+      @point = Point.new(0,0)
+      assert_equal @game.grid[@point], 'X'
+  end
+                                                                              v
+  def test_grid_returns_properly_initialized_point_value_for_two_one
+    assert_equal @game.grid[Point.new(2,1)], 'O'
+  end
+
   def teardown
 
   end
