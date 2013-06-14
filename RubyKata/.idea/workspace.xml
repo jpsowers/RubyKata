@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" name="Default" comment="First adding project for Conways Game Of life in Ruby - created inital unit test">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Game_Of_Life.rb" afterPath="$PROJECT_DIR$/app/Game_Of_Life.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/game_of_life_tests.rb" afterPath="$PROJECT_DIR$/test/game_of_life_tests.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/point.rb" afterPath="$PROJECT_DIR$/app/point.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RubyKata.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/game_of_life_tests.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371172934998" ignored="false" />
+    <file path="/game_of_life_tests.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371173070264" ignored="false" />
     <file path="/game_of_life.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1369967363360" ignored="false" />
     <file path="/Game_Of_Life.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371171802224" ignored="false" />
     <file path="/Dummy.txt" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371168802611" ignored="false" />
-    <file path="/point.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371172209183" ignored="false" />
+    <file path="/point.rb" changelist="817b56f4-ad8a-4dfd-8ba6-e8b44f0b7c9c" time="1371173349988" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +32,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="game_of_life_tests.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="game_of_life_tests.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/game_of_life_tests.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="79" selection-start="800" selection-end="800" vertical-scroll-proportion="0.60362697">
+            <state line="30" column="115" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="point.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="point.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/point.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="59" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+            <state line="9" column="38" selection-start="78" selection-end="78" vertical-scroll-proportion="0.22020726">
               <folding />
             </state>
           </provider>
@@ -54,7 +53,7 @@
       <file leaf-file-name="Game_Of_Life.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Game_Of_Life.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="41" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+            <state line="6" column="54" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,8 +81,8 @@
         <option value="$PROJECT_DIR$/Game_Of_Life.rb" />
         <option value="$PROJECT_DIR$/game_of_life_tests.rb" />
         <option value="$PROJECT_DIR$/app/Game_Of_Life.rb" />
-        <option value="$PROJECT_DIR$/app/point.rb" />
         <option value="$PROJECT_DIR$/test/game_of_life_tests.rb" />
+        <option value="$PROJECT_DIR$/app/point.rb" />
       </list>
     </option>
   </component>
@@ -351,7 +350,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -363,7 +362,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32569557" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" x="23" y="288" width="1320" height="152" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32569557" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" x="23" y="288" width="1320" height="152" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -464,23 +463,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/point.rb">
+    <entry file="file://$PROJECT_DIR$/test/game_of_life_tests.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="59" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+        <state line="30" column="115" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Game_Of_Life.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="41" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+        <state line="6" column="54" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/game_of_life_tests.rb">
+    <entry file="file://$PROJECT_DIR$/app/point.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="79" selection-start="800" selection-end="800" vertical-scroll-proportion="0.60362697">
+        <state line="9" column="38" selection-start="78" selection-end="78" vertical-scroll-proportion="0.22020726">
           <folding />
         </state>
       </provider>

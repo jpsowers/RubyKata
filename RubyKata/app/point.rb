@@ -14,7 +14,7 @@ class Point
   end
 
  def ==(other)
-   self.class === other and
+   self.class === other and #this row is asking if self is a point, === is the subsumption operator
        other.x == @x and
        other.y == @y
  end

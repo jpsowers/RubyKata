@@ -29,7 +29,7 @@ class GameTests < Test::Unit::TestCase
       @point = Point.new(0,0)
       assert_equal @game.grid[@point], 'X'
   end
-                                                                              v
+
   def test_grid_returns_properly_initialized_point_value_for_two_one
     assert_equal @game.grid[Point.new(2,1)], 'O'
   end
