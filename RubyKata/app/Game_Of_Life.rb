@@ -17,7 +17,7 @@ class Game_Of_Life
 
   def count_of_x_values_on_grid
 
-     @grid.each{|key, value| if (value == "X"); @countOfx += 1 end}
+     @grid.each{|key, value| if (value == 'X'); @countOfx += 1 end}
      @countOfx
   end
 
