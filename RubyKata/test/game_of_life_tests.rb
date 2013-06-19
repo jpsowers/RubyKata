@@ -15,7 +15,7 @@ class GameTests < Test::Unit::TestCase
       assert_equal 'booger', result.booger
   end
 
-  def point_can_return_x_and_y_coordinates
+  def test_point_can_return_x_and_y_coordinates
       @point = Point.new(1,2)
       assert_equal @point.x, 1
       assert_equal @point.y, 2
@@ -34,8 +34,7 @@ class GameTests < Test::Unit::TestCase
     assert_equal @game.grid[Point.new(2,1)], 'O'
   end
 
-  def teardown
-
+  def test_at_least_one_value_of_the_hash_is_an_x
+    assert_equal @game.count_of_x_values_on_grid, 7
   end
-
 end
